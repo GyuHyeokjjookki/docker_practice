@@ -1,0 +1,990 @@
+*** Starting uWSGI 2.0.21 (64bit) on [Wed Nov  2 02:07:32 2022] ***
+compiled with version: 10.2.1 20210110 on 02 November 2022 01:49:07
+os: Linux-5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022
+nodename: 82001a44feaa
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /docker-server
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.21 (64bit) on [Wed Nov  2 02:07:32 2022] ***
+compiled with version: 10.2.1 20210110 on 02 November 2022 01:49:07
+os: Linux-5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022
+nodename: 82001a44feaa
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /docker-server
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.21 (64bit) on [Wed Nov  2 02:07:33 2022] ***
+compiled with version: 10.2.1 20210110 on 02 November 2022 01:49:07
+os: Linux-5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022
+nodename: 82001a44feaa
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /docker-server
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.21 (64bit) on [Wed Nov  2 02:07:34 2022] ***
+compiled with version: 10.2.1 20210110 on 02 November 2022 01:49:07
+os: Linux-5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022
+nodename: 82001a44feaa
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /docker-server
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.21 (64bit) on [Wed Nov  2 02:07:35 2022] ***
+compiled with version: 10.2.1 20210110 on 02 November 2022 01:49:07
+os: Linux-5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022
+nodename: 82001a44feaa
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /docker-server
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.21 (64bit) on [Wed Nov  2 02:07:37 2022] ***
+compiled with version: 10.2.1 20210110 on 02 November 2022 01:49:07
+os: Linux-5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022
+nodename: 82001a44feaa
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /docker-server
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.21 (64bit) on [Wed Nov  2 02:07:41 2022] ***
+compiled with version: 10.2.1 20210110 on 02 November 2022 01:49:07
+os: Linux-5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022
+nodename: 82001a44feaa
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /docker-server
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.21 (64bit) on [Wed Nov  2 02:07:48 2022] ***
+compiled with version: 10.2.1 20210110 on 02 November 2022 01:49:07
+os: Linux-5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022
+nodename: 82001a44feaa
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /docker-server
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.21 (64bit) on [Wed Nov  2 02:08:01 2022] ***
+compiled with version: 10.2.1 20210110 on 02 November 2022 01:49:07
+os: Linux-5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022
+nodename: 82001a44feaa
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /docker-server
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.21 (64bit) on [Wed Nov  2 03:02:56 2022] ***
+compiled with version: 10.2.1 20210110 on 02 November 2022 01:49:07
+os: Linux-5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022
+nodename: 9180ab0886b6
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /docker-server
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.21 (64bit) on [Wed Nov  2 03:02:57 2022] ***
+compiled with version: 10.2.1 20210110 on 02 November 2022 01:49:07
+os: Linux-5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022
+nodename: 9180ab0886b6
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /docker-server
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.21 (64bit) on [Wed Nov  2 03:02:58 2022] ***
+compiled with version: 10.2.1 20210110 on 02 November 2022 01:49:07
+os: Linux-5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022
+nodename: 9180ab0886b6
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /docker-server
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.21 (64bit) on [Wed Nov  2 03:02:59 2022] ***
+compiled with version: 10.2.1 20210110 on 02 November 2022 01:49:07
+os: Linux-5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022
+nodename: 9180ab0886b6
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /docker-server
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.21 (64bit) on [Wed Nov  2 03:03:00 2022] ***
+compiled with version: 10.2.1 20210110 on 02 November 2022 01:49:07
+os: Linux-5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022
+nodename: 9180ab0886b6
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /docker-server
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.21 (64bit) on [Wed Nov  2 03:03:02 2022] ***
+compiled with version: 10.2.1 20210110 on 02 November 2022 01:49:07
+os: Linux-5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022
+nodename: 9180ab0886b6
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /docker-server
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.21 (64bit) on [Wed Nov  2 03:03:06 2022] ***
+compiled with version: 10.2.1 20210110 on 02 November 2022 01:49:07
+os: Linux-5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022
+nodename: 9180ab0886b6
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /docker-server
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.21 (64bit) on [Wed Nov  2 03:03:12 2022] ***
+compiled with version: 10.2.1 20210110 on 02 November 2022 01:49:07
+os: Linux-5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022
+nodename: 9180ab0886b6
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /docker-server
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.21 (64bit) on [Wed Nov  2 03:03:26 2022] ***
+compiled with version: 10.2.1 20210110 on 02 November 2022 01:49:07
+os: Linux-5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022
+nodename: 9180ab0886b6
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /docker-server
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.21 (64bit) on [Wed Nov  2 03:03:52 2022] ***
+compiled with version: 10.2.1 20210110 on 02 November 2022 01:49:07
+os: Linux-5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022
+nodename: 9180ab0886b6
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /docker-server
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.21 (64bit) on [Wed Nov  2 03:12:16 2022] ***
+compiled with version: 10.2.1 20210110 on 02 November 2022 01:49:07
+os: Linux-5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022
+nodename: 6ff4a02e965f
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /docker-server
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.21 (64bit) on [Wed Nov  2 03:12:16 2022] ***
+compiled with version: 10.2.1 20210110 on 02 November 2022 01:49:07
+os: Linux-5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022
+nodename: 6ff4a02e965f
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /docker-server
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.21 (64bit) on [Wed Nov  2 03:12:17 2022] ***
+compiled with version: 10.2.1 20210110 on 02 November 2022 01:49:07
+os: Linux-5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022
+nodename: 6ff4a02e965f
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /docker-server
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.21 (64bit) on [Wed Nov  2 03:12:18 2022] ***
+compiled with version: 10.2.1 20210110 on 02 November 2022 01:49:07
+os: Linux-5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022
+nodename: 6ff4a02e965f
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /docker-server
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.21 (64bit) on [Wed Nov  2 03:12:19 2022] ***
+compiled with version: 10.2.1 20210110 on 02 November 2022 01:49:07
+os: Linux-5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022
+nodename: 6ff4a02e965f
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /docker-server
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.21 (64bit) on [Wed Nov  2 03:12:21 2022] ***
+compiled with version: 10.2.1 20210110 on 02 November 2022 01:49:07
+os: Linux-5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022
+nodename: 6ff4a02e965f
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /docker-server
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.21 (64bit) on [Wed Nov  2 03:12:25 2022] ***
+compiled with version: 10.2.1 20210110 on 02 November 2022 01:49:07
+os: Linux-5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022
+nodename: 6ff4a02e965f
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /docker-server
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.21 (64bit) on [Wed Nov  2 03:12:32 2022] ***
+compiled with version: 10.2.1 20210110 on 02 November 2022 01:49:07
+os: Linux-5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022
+nodename: 6ff4a02e965f
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /docker-server
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.21 (64bit) on [Wed Nov  2 03:12:45 2022] ***
+compiled with version: 10.2.1 20210110 on 02 November 2022 01:49:07
+os: Linux-5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022
+nodename: 6ff4a02e965f
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /docker-server
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.21 (64bit) on [Wed Nov  2 03:13:11 2022] ***
+compiled with version: 10.2.1 20210110 on 02 November 2022 01:49:07
+os: Linux-5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022
+nodename: 6ff4a02e965f
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /docker-server
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.21 (64bit) on [Wed Nov  2 03:14:02 2022] ***
+compiled with version: 10.2.1 20210110 on 02 November 2022 01:49:07
+os: Linux-5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022
+nodename: 6ff4a02e965f
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /docker-server
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.21 (64bit) on [Wed Nov  2 03:55:35 2022] ***
+compiled with version: 10.2.1 20210110 on 02 November 2022 03:55:26
+os: Linux-5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022
+nodename: c0e249803629
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /docker-server
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.21 (64bit) on [Wed Nov  2 03:55:36 2022] ***
+compiled with version: 10.2.1 20210110 on 02 November 2022 03:55:26
+os: Linux-5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022
+nodename: c0e249803629
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /docker-server
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.21 (64bit) on [Wed Nov  2 03:55:37 2022] ***
+compiled with version: 10.2.1 20210110 on 02 November 2022 03:55:26
+os: Linux-5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022
+nodename: c0e249803629
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /docker-server
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.21 (64bit) on [Wed Nov  2 03:55:38 2022] ***
+compiled with version: 10.2.1 20210110 on 02 November 2022 03:55:26
+os: Linux-5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022
+nodename: c0e249803629
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /docker-server
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.21 (64bit) on [Wed Nov  2 03:55:39 2022] ***
+compiled with version: 10.2.1 20210110 on 02 November 2022 03:55:26
+os: Linux-5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022
+nodename: c0e249803629
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /docker-server
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.21 (64bit) on [Wed Nov  2 03:55:41 2022] ***
+compiled with version: 10.2.1 20210110 on 02 November 2022 03:55:26
+os: Linux-5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022
+nodename: c0e249803629
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /docker-server
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.21 (64bit) on [Wed Nov  2 03:55:44 2022] ***
+compiled with version: 10.2.1 20210110 on 02 November 2022 03:55:26
+os: Linux-5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022
+nodename: c0e249803629
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /docker-server
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.21 (64bit) on [Wed Nov  2 03:55:51 2022] ***
+compiled with version: 10.2.1 20210110 on 02 November 2022 03:55:26
+os: Linux-5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022
+nodename: c0e249803629
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /docker-server
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.21 (64bit) on [Wed Nov  2 03:58:41 2022] ***
+compiled with version: 10.2.1 20210110 on 02 November 2022 03:55:26
+os: Linux-5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022
+nodename: 7219e1dedf65
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /docker-server
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.21 (64bit) on [Wed Nov  2 03:58:41 2022] ***
+compiled with version: 10.2.1 20210110 on 02 November 2022 03:55:26
+os: Linux-5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022
+nodename: 7219e1dedf65
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /docker-server
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.21 (64bit) on [Wed Nov  2 03:58:42 2022] ***
+compiled with version: 10.2.1 20210110 on 02 November 2022 03:55:26
+os: Linux-5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022
+nodename: 7219e1dedf65
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /docker-server
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.21 (64bit) on [Wed Nov  2 03:58:43 2022] ***
+compiled with version: 10.2.1 20210110 on 02 November 2022 03:55:26
+os: Linux-5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022
+nodename: 7219e1dedf65
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /docker-server
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.21 (64bit) on [Wed Nov  2 03:58:44 2022] ***
+compiled with version: 10.2.1 20210110 on 02 November 2022 03:55:26
+os: Linux-5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022
+nodename: 7219e1dedf65
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /docker-server
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.21 (64bit) on [Wed Nov  2 03:58:46 2022] ***
+compiled with version: 10.2.1 20210110 on 02 November 2022 03:55:26
+os: Linux-5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022
+nodename: 7219e1dedf65
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /docker-server
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.21 (64bit) on [Wed Nov  2 03:58:50 2022] ***
+compiled with version: 10.2.1 20210110 on 02 November 2022 03:55:26
+os: Linux-5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022
+nodename: 7219e1dedf65
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /docker-server
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.21 (64bit) on [Wed Nov  2 03:58:57 2022] ***
+compiled with version: 10.2.1 20210110 on 02 November 2022 03:55:26
+os: Linux-5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022
+nodename: 7219e1dedf65
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /docker-server
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.21 (64bit) on [Wed Nov  2 03:59:10 2022] ***
+compiled with version: 10.2.1 20210110 on 02 November 2022 03:55:26
+os: Linux-5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022
+nodename: 7219e1dedf65
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /docker-server
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.21 (64bit) on [Wed Nov  2 03:59:36 2022] ***
+compiled with version: 10.2.1 20210110 on 02 November 2022 03:55:26
+os: Linux-5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022
+nodename: 7219e1dedf65
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /docker-server
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.21 (64bit) on [Wed Nov  2 04:57:59 2022] ***
+compiled with version: 10.2.1 20210110 on 02 November 2022 04:57:50
+os: Linux-5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022
+nodename: 6cae5ee7638e
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /docker-server
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.21 (64bit) on [Wed Nov  2 04:58:00 2022] ***
+compiled with version: 10.2.1 20210110 on 02 November 2022 04:57:50
+os: Linux-5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022
+nodename: 6cae5ee7638e
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /docker-server
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.21 (64bit) on [Wed Nov  2 04:58:00 2022] ***
+compiled with version: 10.2.1 20210110 on 02 November 2022 04:57:50
+os: Linux-5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022
+nodename: 6cae5ee7638e
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /docker-server
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.21 (64bit) on [Wed Nov  2 04:58:01 2022] ***
+compiled with version: 10.2.1 20210110 on 02 November 2022 04:57:50
+os: Linux-5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022
+nodename: 6cae5ee7638e
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /docker-server
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.21 (64bit) on [Wed Nov  2 04:58:02 2022] ***
+compiled with version: 10.2.1 20210110 on 02 November 2022 04:57:50
+os: Linux-5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022
+nodename: 6cae5ee7638e
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /docker-server
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.21 (64bit) on [Wed Nov  2 04:58:04 2022] ***
+compiled with version: 10.2.1 20210110 on 02 November 2022 04:57:50
+os: Linux-5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022
+nodename: 6cae5ee7638e
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /docker-server
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.21 (64bit) on [Wed Nov  2 04:58:08 2022] ***
+compiled with version: 10.2.1 20210110 on 02 November 2022 04:57:50
+os: Linux-5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022
+nodename: 6cae5ee7638e
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /docker-server
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.21 (64bit) on [Wed Nov  2 04:58:15 2022] ***
+compiled with version: 10.2.1 20210110 on 02 November 2022 04:57:50
+os: Linux-5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022
+nodename: 6cae5ee7638e
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /docker-server
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.21 (64bit) on [Wed Nov  2 04:58:28 2022] ***
+compiled with version: 10.2.1 20210110 on 02 November 2022 04:57:50
+os: Linux-5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022
+nodename: 6cae5ee7638e
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /docker-server
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.21 (64bit) on [Wed Nov  2 04:58:54 2022] ***
+compiled with version: 10.2.1 20210110 on 02 November 2022 04:57:50
+os: Linux-5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022
+nodename: 6cae5ee7638e
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /docker-server
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.21 (64bit) on [Wed Nov  2 05:00:22 2022] ***
+compiled with version: 10.2.1 20210110 on 02 November 2022 04:57:50
+os: Linux-5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022
+nodename: eca64587b984
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /docker-server
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.21 (64bit) on [Wed Nov  2 05:00:23 2022] ***
+compiled with version: 10.2.1 20210110 on 02 November 2022 04:57:50
+os: Linux-5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022
+nodename: eca64587b984
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /docker-server
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.21 (64bit) on [Wed Nov  2 05:00:23 2022] ***
+compiled with version: 10.2.1 20210110 on 02 November 2022 04:57:50
+os: Linux-5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022
+nodename: eca64587b984
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /docker-server
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.21 (64bit) on [Wed Nov  2 05:00:24 2022] ***
+compiled with version: 10.2.1 20210110 on 02 November 2022 04:57:50
+os: Linux-5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022
+nodename: eca64587b984
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /docker-server
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.21 (64bit) on [Wed Nov  2 05:00:25 2022] ***
+compiled with version: 10.2.1 20210110 on 02 November 2022 04:57:50
+os: Linux-5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022
+nodename: eca64587b984
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /docker-server
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.21 (64bit) on [Wed Nov  2 05:00:27 2022] ***
+compiled with version: 10.2.1 20210110 on 02 November 2022 04:57:50
+os: Linux-5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022
+nodename: eca64587b984
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /docker-server
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.21 (64bit) on [Wed Nov  2 05:00:31 2022] ***
+compiled with version: 10.2.1 20210110 on 02 November 2022 04:57:50
+os: Linux-5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022
+nodename: eca64587b984
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /docker-server
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
+*** Starting uWSGI 2.0.21 (64bit) on [Wed Nov  2 05:00:38 2022] ***
+compiled with version: 10.2.1 20210110 on 02 November 2022 04:57:50
+os: Linux-5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022
+nodename: eca64587b984
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /srv/docker-server
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /docker-server
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+chdir(): No such file or directory [core/uwsgi.c line 1649]
