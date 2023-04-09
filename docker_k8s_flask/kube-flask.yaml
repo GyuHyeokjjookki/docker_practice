@@ -1,0 +1,27 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: web-deploy
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: web
+  template:
+    metadata:
+      labels:
+        app: web
+    spec:
+      containers:
+        - name: nginx
+          image: jjookki33/mynginx:0.0
+          imagePullPolicy: IfNotPresent
+          ports:
+            - containerPort: 8004
+          command: ["/bin/sh", "-ec", "while :; do echo 'Hello World'; sleep 5 ; done"]
+        - name: flask
+          image: jjookki33/myflask:0.0
+          imagePullPolicy: IfNotPresent
+          ports:
+            - containerPort: 5004
+          command: ["/bin/sh", "-ec", "while :; do echo 'Hello World'; sleep 5 ; done"]
