@@ -1,3 +1,0 @@
-nginx : https://hub.docker.com/repository/docker/jjookki33/mynginx
-
-flask : https://hub.docker.com/repository/docker/jjookki33/myflask
